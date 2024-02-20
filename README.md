@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thedenissavchenko
+- 👋 Hi, I’m @denissavchenko
 - 👀 I’m interested in programming and design
 - 🌱 I’m currently learning programming and design
 - 💞️ I’m looking to collaborate on programming and design
