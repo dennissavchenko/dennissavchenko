@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dennissavchenko
-- 👀 I’m interested in programming and design
-- 🌱 I’m currently looking for an internship or an entry position job
-- 💞️ I’m looking to collaborate on programming and design
 - 📫 How to reach me dennissavchenko@icloud.com
 
 <!---
